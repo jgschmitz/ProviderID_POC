@@ -1,6 +1,6 @@
 # 🩺 Provider Entity MongoDB Migration
 
-This repository contains the ETL pipeline, schema model, and infrastructure-as-code needed to migrate the normalized RDBMS `provider` entity into a denormalized MongoDB document model.
+This repository contains the schema model, and infrastructure-as-code needed to migrate the normalized RDBMS `provider` entity into a denormalized MongoDB document model.
 
 ---
 
