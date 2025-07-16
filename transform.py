@@ -2,7 +2,7 @@
 """
 Transform and merge normalized provider CSVs into MongoDB JSON format.
 """
-
+#run this ->  python3 etl/transform.py --csv-dir ./csv --out ./etl/providerEntity.json
 import csv, json, argparse, pathlib, collections
 from datetime import datetime
 
